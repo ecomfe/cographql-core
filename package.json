@@ -7,7 +7,8 @@
     "clean": "rimraf dist",
     "compile": "tsc",
     "watch": "tsc -w",
-    "prepublish": "npm run compile"
+    "prepublish": "npm run compile",
+    "lint": "tslint ./src/**/*.ts"
   },
   "author": {
       "name": "Firede",

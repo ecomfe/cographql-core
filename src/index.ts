@@ -5,6 +5,6 @@
 
 const hello = (name: string): string => {
     return `Hello ${name}!`;
-}
+};
 
-console.info(hello('world'));
+console.log(hello('world'));
