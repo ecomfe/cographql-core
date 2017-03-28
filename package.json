@@ -11,8 +11,8 @@
     "lint": "tslint ./src/**/*.ts"
   },
   "author": {
-      "name": "Firede",
-      "email": "firede@firede.us"
+    "name": "Firede",
+    "email": "firede@firede.us"
   },
   "license": "MIT",
   "dependencies": {
@@ -30,6 +30,6 @@
     "graphql": "^0.9.1"
   },
   "optionalDependencies": {
-    "@types/graphql": "^0.8.6"
+    "@types/graphql": "^0.9.0"
   }
 }
