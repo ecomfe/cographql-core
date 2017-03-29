@@ -16,9 +16,11 @@
   },
   "license": "MIT",
   "dependencies": {
+    "debug": "^2.6.3",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
+    "@types/debug": "^0.0.29",
     "@types/lodash": "^4.14.57",
     "@types/node": "^7.0.10",
     "graphql": "^0.9.1",
